@@ -10,7 +10,5 @@ Kanye, West
 Course Average: 80
 Letter Grade: B
 
-Kanye, West
-Course Average: 80
-Letter Grade: B
-
+Total Students in the class: 3
+Average of course average: 31.0667

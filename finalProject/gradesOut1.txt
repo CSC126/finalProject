@@ -22,11 +22,3 @@ Average of Homework: 8
 The Final: 24
 The course Average: 80
 
-Kanye, West
-Quiz Average: 16
-Average Of Exams: 24
-Average of labs: 8
-Average of Homework: 8
-The Final: 24
-The course Average: 80
-
