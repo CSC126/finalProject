@@ -1,0 +1,32 @@
+Alan, Mackiewicz
+Quiz Average: 0.8
+Average Of Exams: 0.6
+Average of labs: 0.8
+Average of Homework: 0.7
+The Final: 0.3
+The course Average: 3.2
+
+Joe, Biden
+Quiz Average: 2
+Average Of Exams: 3
+Average of labs: 1
+Average of Homework: 1
+The Final: 3
+The course Average: 10
+
+Kanye, West
+Quiz Average: 16
+Average Of Exams: 24
+Average of labs: 8
+Average of Homework: 8
+The Final: 24
+The course Average: 80
+
+Kanye, West
+Quiz Average: 16
+Average Of Exams: 24
+Average of labs: 8
+Average of Homework: 8
+The Final: 24
+The course Average: 80
+

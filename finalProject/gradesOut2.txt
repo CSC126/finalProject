@@ -1,0 +1,16 @@
+Alan, Mackiewicz
+Course Average: 3.2
+Letter Grade: F
+
+Joe, Biden
+Course Average: 10
+Letter Grade: F
+
+Kanye, West
+Course Average: 80
+Letter Grade: B
+
+Kanye, West
+Course Average: 80
+Letter Grade: B
+
