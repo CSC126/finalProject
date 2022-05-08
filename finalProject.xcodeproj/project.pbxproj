@@ -26,6 +26,8 @@
 		317ADA95282063CD00B98170 /* finalProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = finalProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		317ADA98282063CD00B98170 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		317E009328285695007316EE /* gradesIn.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = gradesIn.txt; sourceTree = "<group>"; };
+		317E009428286525007316EE /* gradesOut1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = gradesOut1.txt; sourceTree = "<group>"; };
+		317E00952828653D007316EE /* gradesOut2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = gradesOut2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,8 @@
 			children = (
 				317ADA98282063CD00B98170 /* main.cpp */,
 				317E009328285695007316EE /* gradesIn.txt */,
+				317E009428286525007316EE /* gradesOut1.txt */,
+				317E00952828653D007316EE /* gradesOut2.txt */,
 			);
 			path = finalProject;
 			sourceTree = "<group>";

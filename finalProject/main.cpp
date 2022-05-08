@@ -36,7 +36,10 @@ int main(){
         FINAL_AVERAGE = calcQuizWeight + calcHwWeight + calcLabWeight + calcTestWeight + calcFinalWeight;
         LETTER_GRADE = calculateLetterGrade(FINAL_AVERAGE);
         
+        foutOne << firstName << ", " << lastName << endl << "Quiz Average: " << calcQuizWeight << endl
+        << "Average Of Exams: " << calcTestWeight << endl << "Average of labs: " << calcLabWeight << endl << "Average of Homework: " << calcHwWeight << endl << "The Final: " << calcFinalWeight << endl << "The course Average: " << FINAL_AVERAGE << endl << endl;
         
+        foutTwo << firstName << ", " << lastName << endl << "Course Average: " << FINAL_AVERAGE << endl << "Letter Grade: " << LETTER_GRADE << endl << endl;
         
     }
     
