@@ -1,3 +1,8 @@
+//CSC 126 Final Project
+//We pledge this work to be my own Alan Mackiewicz and Lyubomira Stefanova
+
+/* Our code uses file.io and many functions to accomplish a task. Unlike our other homeworks this time we had to open two output files that each display different things but both use the same input file. The code starts off with opening these files and setting global variables that will be used throughout the functions in the program. Then a while loop that attempts to declare all the variables in a line tries to run, If a valid line in the gradesIn.txt file is there then the code works and if not then it doesnt allowing for an infinite amount of lines in the input file. After this we just call functions to calculate scores by using these inputs from gradesIn.txt and set them to variables that will be displayed properly according ot the prompt in the output files respectively. This is how our code works.
+ */
 #include <iostream>
 #include <iomanip>
 #include <fstream>
@@ -127,3 +132,6 @@ double findAverageLabScore(double a, double b, double c, double d, double e, dou
 double findAverageTestScore(double a, double b){
     return(a + b)/2;
 }
+/*
+ For OUTPUT check gradesOut1.txt and gradesOut2.txt
+ */

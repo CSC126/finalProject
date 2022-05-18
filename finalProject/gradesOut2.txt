@@ -1,6 +1,10 @@
 Alan, Mackiewicz
-Course Average: 3.2
+Course Average: 48.5
 Letter Grade: F
+
+Lyubomira, Stefanova
+Course Average: 90
+Letter Grade: A
 
 Joe, Biden
 Course Average: 10
@@ -10,5 +14,5 @@ Kanye, West
 Course Average: 80
 Letter Grade: B
 
-Total Students in the class: 3
-Average of course average: 31.0667
+Total Students in the class: 4
+Average of course average: 57.125
