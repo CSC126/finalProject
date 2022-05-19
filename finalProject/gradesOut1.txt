@@ -30,3 +30,11 @@ Average of Homework: 8
 The Final: 24
 The course Average: 80
 
+Barack, Obama
+Quiz Average: 14
+Average Of Exams: 21
+Average of labs: 7
+Average of Homework: 7
+The Final: 21
+The course Average: 70
+

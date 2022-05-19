@@ -14,5 +14,9 @@ Kanye, West
 Course Average: 80
 Letter Grade: B
 
-Total Students in the class: 4
-Average of course average: 57.125
+Barack, Obama
+Course Average: 70
+Letter Grade: C
+
+Total Students in the class: 5
+Average of course average: 59.7
