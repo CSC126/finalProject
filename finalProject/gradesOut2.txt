@@ -7,16 +7,16 @@ Course Average: 90
 Letter Grade: A
 
 Joe, Biden
-Course Average: 10
+Course Average: 10.7946
 Letter Grade: F
 
 Kanye, West
-Course Average: 80
+Course Average: 80.6261
 Letter Grade: B
 
 Barack, Obama
-Course Average: 70
+Course Average: 70.0771
 Letter Grade: C
 
 Total Students in the class: 5
-Average of course average: 59.7
+Average of course average: 59.9996

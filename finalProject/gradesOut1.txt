@@ -15,26 +15,26 @@ The Final: 27
 The course Average: 90
 
 Joe, Biden
-Quiz Average: 2
+Quiz Average: 2.28
 Average Of Exams: 3
-Average of labs: 1
-Average of Homework: 1
+Average of labs: 1.4475
+Average of Homework: 1.06714
 The Final: 3
-The course Average: 10
+The course Average: 10.7946
 
 Kanye, West
-Quiz Average: 16
-Average Of Exams: 24
-Average of labs: 8
-Average of Homework: 8
+Quiz Average: 15.2267
+Average Of Exams: 25.23
+Average of labs: 8.49375
+Average of Homework: 7.67571
 The Final: 24
-The course Average: 80
+The course Average: 80.6261
 
 Barack, Obama
 Quiz Average: 14
 Average Of Exams: 21
 Average of labs: 7
-Average of Homework: 7
+Average of Homework: 7.07714
 The Final: 21
-The course Average: 70
+The course Average: 70.0771
 

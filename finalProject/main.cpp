@@ -106,13 +106,14 @@ double findMinQuiz(double a, double b, double c, double d){
 }
 
 double findAverageQuizScore(double a, double b, double c, double d){
-    if(a < (b && c && d)){
+    double smallestQuiz = findMinQuiz(a, b, c, d);
+    if(smallestQuiz == a){
         return (b + c + d)/3;
     }
-    if(b < (a && c && d)){
+    if(smallestQuiz == b){
         return (a + c + d)/3;
     }
-    if(c < (a && b && d)){
+    if(smallestQuiz == c){
         return (a + b + d)/3;
     }
     else{
