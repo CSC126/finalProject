@@ -30,8 +30,11 @@ int main(){
     fin.open("gradesIn.txt");
     foutOne.open("gradesOut1.txt");
     foutTwo.open("gradesOut2.txt");
+    //sets grades to two decimal places only
+    foutOne << fixed << setprecision(2);
+    foutTwo << fixed << setprecision(2);
     
-    //The loop works by checking if all these variables can be defined in a row and if they can then the condition is met and the loop runs
+    //The loop works by checking if all these variables can be defined and if they can then the condition is met and the loop runs
     while(fin >> firstName >> lastName >> quiz1 >> quiz2 >> quiz3 >> quiz4 >> lab1 >> lab2 >> lab3 >> lab4 >> lab5 >> lab6 >> lab7 >> lab8 >> hw1 >> hw2 >> hw3 >> hw4 >> hw5 >> hw6 >> hw7 >> exam1 >> exam2 >> Thefinal){
        //calling all the functions and setting their values to variables to be used later
         double calcQuizWeight = findAverageQuizScore(quiz1, quiz2, quiz3, quiz4)*.20;
@@ -53,8 +56,7 @@ int main(){
         averageOfCourseAverage += FINAL_AVERAGE;
         
     }
-        
-    foutTwo << "Total Students in the class: " << studentsInClass << endl << "Average of course average: " << (averageOfCourseAverage / studentsInClass);
+    foutTwo << "Total Students in the class: " << setprecision(0) << studentsInClass << endl << "Average of course average: " << setprecision(2) << (averageOfCourseAverage / studentsInClass);
     
     //closing the files as we do not need to add to them anymore
     fin.close();

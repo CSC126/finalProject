@@ -1,40 +1,40 @@
 Alan, Mackiewicz
-Quiz Average: 8
-Average Of Exams: 6
-Average of labs: 8
-Average of Homework: 7
-The Final: 19.5
-The course Average: 48.5
+Quiz Average: 8.00
+Average Of Exams: 6.00
+Average of labs: 8.00
+Average of Homework: 7.00
+The Final: 19.50
+The course Average: 48.50
 
 Lyubomira, Stefanova
-Quiz Average: 18
-Average Of Exams: 27
-Average of labs: 9
-Average of Homework: 9
-The Final: 27
-The course Average: 90
+Quiz Average: 18.00
+Average Of Exams: 27.00
+Average of labs: 9.00
+Average of Homework: 9.00
+The Final: 27.00
+The course Average: 90.00
 
 Joe, Biden
 Quiz Average: 2.28
-Average Of Exams: 3
-Average of labs: 1.4475
-Average of Homework: 1.06714
-The Final: 3
-The course Average: 10.7946
+Average Of Exams: 3.00
+Average of labs: 1.45
+Average of Homework: 1.07
+The Final: 3.00
+The course Average: 10.79
 
 Kanye, West
-Quiz Average: 15.2267
+Quiz Average: 15.23
 Average Of Exams: 25.23
-Average of labs: 8.49375
-Average of Homework: 7.67571
-The Final: 24
-The course Average: 80.6261
+Average of labs: 8.49
+Average of Homework: 7.68
+The Final: 24.00
+The course Average: 80.63
 
 Barack, Obama
-Quiz Average: 14
-Average Of Exams: 21
-Average of labs: 7
-Average of Homework: 7.07714
-The Final: 21
-The course Average: 70.0771
+Quiz Average: 14.00
+Average Of Exams: 21.00
+Average of labs: 7.00
+Average of Homework: 7.08
+The Final: 21.00
+The course Average: 70.08
 
